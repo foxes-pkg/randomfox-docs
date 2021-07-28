@@ -18,11 +18,11 @@ export default {
       <meta name="description" content="randomfox: a content randomizer" />
       <meta name="og:description" content="randomfox: a content randomizer" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
+      <meta name="twitter:image" content="https://rfox.vercel.app/banner.png" />
+      <meta name="twitter:site:domain" content="rfox.vercel.app" />
+      <meta name="twitter:url" content="https://rfox.vercel.app" />
       <meta name="og:title" content="randomfox: A content randomizer" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="og:image" content="https://rfox.vercel.app/banner.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
         rel="apple-touch-icon"
